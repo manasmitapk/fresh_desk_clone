@@ -11,7 +11,7 @@ navdiv.innerHTML=`<nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="navbar-nav">
       <a class="nav-link" href="./index.html">Home </a>
       <a class="nav-link" href="./create_ticket.html">Create </a>
-      <a class="nav-link active" href="./contactlist.html">Lists <span class="sr-only">(current)</span></a>
+      <a class="nav-link active" href="./listticket.html">Lists <span class="sr-only">(current)</span></a>
       
     </div>
   </div>
